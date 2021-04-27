@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dmytro-buhai
+- 👀 I’m interested in c# .net core and angular
+- 🌱 I’m currently learning .net core platform, asp .net core and angular framework, languages: c#, js
+- 📫 How to reach me: dmytro.buhai@nure.ua
